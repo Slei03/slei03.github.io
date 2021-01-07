@@ -24,7 +24,7 @@ System.out.println("Hello World");
 ## Links
 I built this page using [GitHub Pages](https://pages.github.com/). You can check out my repository for this site [here](https://github.com/Slei03/slei03.github.io).
 
-To read more about me, you can check out the [About Me](#about-me) section. 
+To read more about me, you can check out the [About Me](#about-me), [Quotes](#quotes), and/or the [List](#lists) sections.
 
 A quick overview about this page can be read [here](README.md).
 
