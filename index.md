@@ -1,4 +1,5 @@
-<img src="me.JPG" alt="Pic of Me" style="width:220px; height:250px; border:2px solid #000"/>
+
+<img src="me.JPG" alt="Pic of Me" style="width:275px; height:300px; border:2px solid #000"/>
 
 ## My GitHub Page for Lab 1
 #### About Me
