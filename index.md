@@ -6,7 +6,7 @@
 # About Me
 Hi, my name is Sally Lei! I'm a second-year student at UCSD in Warren majoring in Computer Science. I chose to major in CS because I like the feeling of accomplishment when my code succeeds at carrying out its intended task. 
 
-![figure|250x250](images/stick.png)
+![figure](images/stick.png)
 
 **Note:** Programming is ~~not~~ *stressful*.   **It _really_ is ~~not~~.** ***Stressful.***
 
