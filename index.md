@@ -4,7 +4,7 @@
 <img src="images/me.JPG" alt="Pic of Me" style="width:275px; height:300px; border:2px solid #000"/>
 
 # About Me
-*(Contains styled text, an emoji, a table & a relative link(image))*
+*(Contains styled text, a table & a relative link(image))*
 
 Hi, my name is Sally Lei! :smile: I'm a second-year student at UCSD in Warren majoring in Computer Science. I chose to major in CS because I like the feeling of accomplishment when my code succeeds at carrying out its intended task. 
 
