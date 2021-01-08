@@ -8,7 +8,11 @@ Hi, my name is Sally Lei! I'm a second-year student at UCSD in Warren majoring i
 
 ![figure](images/stick.png)
 
-**Note:** Programming is ~~not~~ *stressful*.   **It _really_ is ~~not~~.** ***Stressful.***
+**Note:** 
+I can not ~~not~~ draw.
+I can *not* draw.
+**I _really_ can not draw.** 
+***Sorry about the drawing above***
 
 ## Quotes
 My favorite quote is:
@@ -25,7 +29,7 @@ System.out.println("Hello World");
 ## Links
 I built this page using [GitHub Pages](https://pages.github.com/). You can check out my repository for this site [here](https://github.com/Slei03/slei03.github.io).
 
-To read more about me, you can check out the [About Me](#about-me), [Quotes](#quotes), and/or the [List](#lists) sections.
+To find out more about me, check out the [About Me](#about-me), [Quotes](#quotes), and/or the [List](#lists) sections.
 
 A quick overview about this page can be read [here](https://github.com/Slei03/slei03.github.io/blob/main/README.md).
 
