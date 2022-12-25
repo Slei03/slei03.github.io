@@ -1,4 +1,2 @@
-# slei03.github.io
-Sally's User Page
-
-My favorite programming language is Java
+# Sally's Page
+slei03.github.io

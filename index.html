@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sally's Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/name-icon.png">
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <div id="stick">
+        <div id="top-bar">
+            <div id="label">
+                <a class="nav-item" id="open-nav" href=""><img src="images/name-logo.png" alt="Sally Logo"></a>
+            </div>
+            <div id="nav">
+                <a class="nav-item" id="about-nav" href="#about-me-body">About Me</a>
+                <!--button class="nav-item" id="projects-nav" onclick="openSection('projects-nav', this)">Projects</button-->
+                <a class="nav-item" id="contact-nav" href="#contact-me-body">Contact</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="content" id="open-sal-body">
+        <div id="open-sal">
+            <img id="me" src="images/drawn-me.png" alt="Image of Sally"/>
+            <h1>Hi, I'm Sally.</h1>
+            <p>Welcome to my page!</p>
+        </div>
+        <a class="arrow" id="about-arrow" href="#about-me-body">
+            <img class="arrow" src="images/expand.svg" alt="Arrow">
+            <p>About Me</p>
+        </a>
+    </div>
+
+    <div class="content" id="about-me-body">
+        <div id="about-me">
+            <img id="about-me-img" src="images/me.png" alt="Image of Sally"/>
+            <div id="about-me-text">
+                <h1>Hello, I’m Sally Lei!</h1>
+                <p> I’m a 4th-year at the University of California, San Diego majoring
+                    in Computer Science and minoring in Math.</p>
+                <p><b>Hobbies:</b> I enjoy listening to music, (occasional) reading, and going
+                    on trips with family. </p>
+                <p><b>Tech:</b> I have experience with Java, HTML/CSS, JavaScript, and some
+                    experience with Python and C++.</p>    
+            </div>
+        </div>
+        <a class="arrow" id="contact-arrow" href="#contact-me-body">
+            <img class="arrow" src="images/expand.svg" alt="Arrow">
+            <p>Contact Me</p>
+        </a>
+    </div>
+
+    <div class="content" id="contact-me-body">
+        <div id="contact-me">
+                <h1>Connect with me via</h1>
+                <div class="contact-link">
+                    <img src="images/linkedin-icon.png" alt="LinkedIn Icon"></img>
+                    <a href="https://www.linkedin.com/in/lei-sallyc">www.linkedin.com/in/lei-sallyc</a>
+                </div>
+                <div class="contact-link">
+                    <img src="images/email.svg" alt="Email Icon"></img>
+                    <a href="mailto:lei.sallyc@gmail.com">lei.sallyc@gmail.com</a>  
+                </div>
+        </div>
+    </div>
+</body>
+
+</html>
