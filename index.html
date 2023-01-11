@@ -14,12 +14,12 @@
     <div id="stick">
         <div id="top-bar">
             <div id="label">
-                <a class="nav-item" id="open-nav" href=""><img src="images/name-logo.png" alt="Sally Logo"></a>
+                <a id="open-nav" href=""><img src="images/name-logo.png" alt="Sally Logo"></a>
             </div>
             <div id="nav">
-                <a class="nav-item" id="about-nav" href="#about-me-body">About Me</a>
+                <button class="nav-item" id="about-nav" onclick="selectSection('about-me')">About Me</button>
                 <!--button class="nav-item" id="projects-nav" onclick="openSection('projects-nav', this)">Projects</button-->
-                <a class="nav-item" id="contact-nav" href="#contact-me-body">Contact</a>
+                <button class="nav-item" id="contact-nav" onclick="selectSection('contact-me')">Contact</button>
             </div>
         </div>
     </div>
@@ -30,10 +30,14 @@
             <h1>Hi, I'm Sally.</h1>
             <p>Welcome to my page!</p>
         </div>
-        <a class="arrow" id="about-arrow" href="#about-me-body">
+        <a class="arrow" onclick="selectSection('about-me')">
+            <p>About Me</p>
+            <img src="images/right-arrow.svg" alt="Arrow">
+        </a>
+        <!--a class="arrow" id="about-arrow" href="#about-me-body">
             <img class="arrow" src="images/expand.svg" alt="Arrow">
             <p>About Me</p>
-        </a>
+        </a-->
     </div>
 
     <div class="content" id="about-me-body">
@@ -49,9 +53,9 @@
                     experience with Python and C++.</p>    
             </div>
         </div>
-        <a class="arrow" id="contact-arrow" href="#contact-me-body">
-            <img class="arrow" src="images/expand.svg" alt="Arrow">
+        <a class="arrow" onclick="selectSection('contact-me')">
             <p>Contact Me</p>
+            <img src="images/right-arrow.svg" alt="Arrow">
         </a>
     </div>
 
