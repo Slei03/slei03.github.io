@@ -99,7 +99,7 @@ a:visited{
 }
 
 #me{
-    height: 525px;
+    height: 450px;
     margin: 0% auto;
     display: block;
 }
@@ -157,7 +157,7 @@ a:visited{
     display: inline-flex;
     flex-wrap: wrap;
     width: 100%;
-    margin: 8% auto 11% auto;
+    margin: 8% auto 8% auto;
     justify-content: center;
 }
 
